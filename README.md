@@ -13,8 +13,8 @@ In this SQL project, we delve into the dataset of Olympic sports, examining the 
 2. **Age and gender performance**: What are the age and gender demographics of athletes who tend to win the most medals, and does this vary by sport?
 3. **Countries performance**: Are there any notable trends or correlations between a country's overall medal count and its performance in specific sports, both in summer and winter games?
 4. **Correlation between age and performance**: Is there a correlation between the age of athletes and their performance in different sports?
-2. **Gender disparity in sports participation**: Despite the overall gender ratio of athletes being 3:1, are there specific sports or countries where the gender gap is narrower or wider?
-3. **Long-term trends in Olympic performance**: How has the performance of countries in the Olympics evolved over time? Are there any noticeable trends in terms of the rise or decline of certain nations in specific sports or across seasons?
+5. **Gender disparity in sports participation**: Despite the overall gender ratio of athletes being 3:1, are there specific sports or countries where the gender gap is narrower or wider?
+6. **Long-term trends in Olympic performance**: How has the performance of countries in the Olympics evolved over time? Are there any noticeable trends in terms of the rise or decline of certain nations in specific sports or across seasons?
 
 ### Hypotesis
 `Certain countries may exhibit a consistent dominance in specific sports across both summer and winter Olympic games. For example, countries with a strong tradition in winter sports may perform exceptionally well in disciplines like skiing or ice hockey during the Winter Olympics.`

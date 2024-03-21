@@ -4,14 +4,14 @@ Data analysis of information from the summer and winter Olympic games over the y
 
 ## 🔰 What is it about?
 
-In this SQL project, we delve into the rich dataset of Olympic sports, examining the correlation between countries and their performance across various sports in both summer and winter games. Additionally, we explore the distribution of medals by gender and age, shedding light on the patterns and trends within these demographics. The findings of this project could be of keen interest to various stakeholders, including sports federations, national Olympic committees, and even potential sponsors. Understanding which sports resonate more strongly with different demographics and regions can inform strategic decisions regarding athlete development, resource allocation, and sponsorship investments. Thus, the audience for this project ranges from sports enthusiasts and analysts to marketing professionals seeking insights into the dynamics of Olympic sports participation and performance.
+In this SQL project, we delve into the dataset of Olympic sports, examining the correlation between countries and their performance across various sports in both summer and winter games. Additionally, we explore the distribution of medals by gender and age, shedding light on the patterns and trends within these demographics. The findings of this project could be of keen interest to various stakeholders, including sports federations, national Olympic committees, and even potential sponsors. Understanding which sports resonate more strongly with different demographics and regions can inform strategic decisions regarding athlete development, resource allocation, and sponsorship investments. Thus, the audience for this project ranges from sports enthusiasts and analysts to marketing professionals seeking insights into the dynamics of Olympic sports participation and performance.
 
 <img src = "https://raw.githubusercontent.com/alejo1630/Sport_Stats/main/ERD.png" width = "700">
 
 ### Main Questions
 1. **Medal Distribution**: How does the distribution of medals across different sports vary between summer and winter Olympic games?
 2. **Age and gender performance**: What are the age and gender demographics of athletes who tend to win the most medals, and does this vary by sport?
-3. **Countries performance**:Are there any notable trends or correlations between a country's overall medal count and its performance in specific sports, both in summer and winter games?
+3. **Countries performance**: Are there any notable trends or correlations between a country's overall medal count and its performance in specific sports, both in summer and winter games?
 4. **Correlation between age and performance**: Is there a correlation between the age of athletes and their performance in different sports?
 2. **Gender disparity in sports participation**: Despite the overall gender ratio of athletes being 3:1, are there specific sports or countries where the gender gap is narrower or wider?
 3. **Long-term trends in Olympic performance**: How has the performance of countries in the Olympics evolved over time? Are there any noticeable trends in terms of the rise or decline of certain nations in specific sports or across seasons?
